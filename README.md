@@ -8,6 +8,8 @@ Supports the NeRF Blender synthetic dataset (lego, chair, drums, ficus, hotdog, 
 
 [Spatial Intelligence - Part 1: NeRF](https://halannhile.github.io/posts/nerf/)
 
+https://github.com/user-attachments/assets/1d7cc00d-999f-49b7-99e6-8ba2e1bfa76e
+
 ## Setup
 
 ```bash
